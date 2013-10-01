@@ -12,3 +12,5 @@
 coinop = Host
 mentaljen = Game Master
 jesusmod = Game Master
+eyeninja = Badmin
+dudewhatbro = Badmin
