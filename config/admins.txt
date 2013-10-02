@@ -14,3 +14,5 @@ mentaljen = Game Master
 jesusmod = Game Master
 eyeninja = Badmin
 dudewhatbro = Badmin
+sonador = Game Master
+420weedscopes = Game Master
