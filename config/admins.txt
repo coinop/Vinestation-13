@@ -12,6 +12,8 @@
 coinop = Host
 mentaljen = Game Master
 jesusmod = Game Master
+420weedscopes = Game Master
+sonador = Game Master
 eyeninja = Badmin
 dudewhatbro = Badmin
 sonador = Game Master
