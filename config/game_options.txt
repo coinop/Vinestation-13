@@ -84,7 +84,7 @@ PROBABILITY CHANGELING 5
 PROBABILITY WIZARD 5
 PROBABILITY MALFUNCTION 5
 PROBABILITY BLOB 5
-PROBABILITY METEOR 0
+PROBABILITY METEOR 5
 PROBABILITY EXTENDED 5
 
 ## You probably want to keep sandbox off by default for secret and random.
@@ -94,8 +94,8 @@ PROBABILITY SANDBOX 0
 ## the shuttle is called or the station is nuked.
 ## Malf and Rev will let the shuttle be called when the antags/protags are dead.
 #CONTINUOUS_ROUND_REV
-#CONTINUOUS_ROUND_WIZ
-#CONTINUOUS_ROUND_MALF
+CONTINUOUS_ROUND_WIZ
+CONTINUOUS_ROUND_MALF
 
 
 ## Variables calculate how number of antagonists will scale to population.
